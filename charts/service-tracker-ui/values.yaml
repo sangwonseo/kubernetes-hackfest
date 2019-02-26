@@ -6,6 +6,6 @@ service:
 
 deploy:
   name: service-tracker-ui
-  acrServer: "youracr.azurecr.io"
+  acrServer: "acrhackfestsangwon25398.io"
   imageTag: "1.0"
   containerPort: 8080
